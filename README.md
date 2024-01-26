@@ -1,4 +1,4 @@
-<img align = "center" width = 750" height = "350" src = "https://as1.ftcdn.net/v2/jpg/06/84/18/58/1000_F_684185884_eKq0i4Ua9GrwKUfluonwGE5xjwxHGyvW.jpg">
+<img align = "center" width = 750" height = "350" src = "https://as1.ftcdn.net/v2/jpg/06/84/18/58/1000_F_684185884_eKq0i4Ua9GrwKUfluonwGE5xjwxHGyvW.jpg ">
 
 <h1 align="center">Hi 👋, I'm PIYUSH SAXENA</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushs131&label=Profile%20views&color=0e75b6&style=flat" alt="piyushs131" /> </p>
