@@ -1,4 +1,4 @@
-<img align = "center" width = "1150" height = "300" src = "https://stock.adobe.com/images/programmer-coder-web-developer-or-software-engineer-sitting-at-desk-and-working-on-computer-or-programming-workplace-of-it-worker-back-view/684185884 ">
+<img align = "center" width = "900" height = "300" src = "https://stock.adobe.com/images/teacher-in-the-programming-classroom-taking-students-examination/631052676 ">
 
 <h1 align="center">Hi 👋, I'm PIYUSH SAXENA</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushs131&label=Profile%20views&color=0e75b6&style=flat" alt="piyushs131" /> </p>
