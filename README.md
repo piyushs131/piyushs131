@@ -1,6 +1,6 @@
-<img align = "center" width = "900" height = "300" src = "https://stock.adobe.com/images/teacher-in-the-programming-classroom-taking-students-examination/631052676 ">
-
 <h1 align="center">Hi 👋, I'm PIYUSH SAXENA</h1>
+<h3 align="center">Passionate Developer and Researcher</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushs131&label=Profile%20views&color=0e75b6&style=flat" alt="piyushs131" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushs131&show_icons=true&locale=en&layout=compact" alt="piyushs131" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushs131&" alt="piyushs131" /></p>
+
