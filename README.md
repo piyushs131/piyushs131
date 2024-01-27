@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Research publication**
+- 👯 I’m looking to collaborate on **Machine Learning and Research publications**
 
 - 💬 Ask me about **Development and Competitive Programming**
 
